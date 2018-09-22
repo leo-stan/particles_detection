@@ -1,5 +1,3 @@
-#Particle_detection
-
 Page in construction...
 
 - Intro
