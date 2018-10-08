@@ -12,7 +12,7 @@ Image showing the successful detection and segmentation of Lidar points generate
 
 <img src="imgs/results.png" alt="Results" width="400px"/>
 
-<h2>Quantitative Results</h2>
+<h2>Qualitative Results</h2>
 
 <img src="imgs/fog_pred.png" alt="FogPrediction" width="300px"/>
 

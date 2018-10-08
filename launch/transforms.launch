@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="tf" type="static_transform_publisher" name="footprint_to_voxel_map"
+          args="-10 10 0 0 0 -0.707 0.707 base_footprint voxel_map 20"/>
+</launch>
