@@ -53,13 +53,13 @@ with input_model = model_file_name
 
 ## ROS Topic prediction
 
-'''bash
+```bash
 $rosparam set use_sim_time true
 $roslaunch smoke_detection transforms.launch
 $rosrun smoke_detection scan_formatter
 $rosbag play whatever bag you want to predict
 $rosrun smoke_detection topic_prediction or smokenet_topic_prediction
-'''
+```
 
 ## TODO
 
